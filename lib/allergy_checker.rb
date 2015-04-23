@@ -18,11 +18,11 @@ class Fixnum
         if target_score >= (v1)
           output.push(k1)
           target_score = target_score.-(v1)
-        else
-
         end
       end
     end
+
     output
+
   end
 end
